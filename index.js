@@ -1,6 +1,11 @@
 var name = "Aakash";
-var msg = "Hello my name is " + name + "How are you";
 
-alert("msg");
+console.log(typeof name);
 
-console.log("msg");
+let num = 75;
+
+console.log(typeof num);
+
+const work = "true";
+
+console.log(typeof(work));
