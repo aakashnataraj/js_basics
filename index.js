@@ -1,11 +1,8 @@
-var name = "Aakash";
+let place = {
+  FirstName: "Aakash",
+  Age: 45,
+  gender: "Male",
+  place: "Erumapatti"
+};
 
-console.log(typeof name);
-
-let num = 75;
-
-console.log(typeof num);
-
-const work = "true";
-
-console.log(typeof(work));
+console.log(place[length]);
